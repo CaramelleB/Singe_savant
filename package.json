@@ -1,0 +1,12 @@
+{
+  "name": "Singe_savant",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "type": "module"
+}
